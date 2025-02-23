@@ -4,4 +4,5 @@
 - `npm install`
 
 ### Start the Application
-- `npm run dev`
+- Development : `npm run dev`
+- Production : `npm start`
